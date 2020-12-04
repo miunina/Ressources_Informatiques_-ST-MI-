@@ -1,0 +1,4 @@
+gcc -o client client.c Semaphore.c Memoire.c
+gcc -o voiture voiture.c Semaphore.c Memoire.c
+gcc -o client4_5 client4_5.c Semaphore.c Memoire.c
+gcc -o voiture4_5 voiture4_5.c Semaphore.c Memoire.c
